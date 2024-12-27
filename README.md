@@ -3,10 +3,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zdyshine&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdyshine)
 
 - 🔭 I’m currently working on [MGTV](https://www.mgtv.com/)
 
 - 🌱 I’m currently learning **AIGC**
 
 - 💬 Ask me about **Image/Video Enhance, AIGC**
+
+![trophy](https://github-profile-trophy.vercel.app/?zdyshine=ryo-ma)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdyshine)
