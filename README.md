@@ -10,6 +10,6 @@
 
 - 💬 Ask me about **Image/Video Enhance, AIGC**
 
-![trophy](https://github-profile-trophy.vercel.app/?zdyshine=ryo-ma)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zdyshine&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zdyshine)
